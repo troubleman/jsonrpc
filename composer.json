@@ -1,0 +1,16 @@
+{
+    "name": "newiep/jsonrpc",
+    "description": "JsonRPC PHP Client and Server",
+    "authors": [
+        {
+            "name": "newiep",
+            "email": "haopeiwen123@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "JsonRPC\\" : "src/"
+        }
+    },
+    "license": "MIT"
+}
